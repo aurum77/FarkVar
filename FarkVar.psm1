@@ -7,3 +7,5 @@ function Fark-Var {
         Write-Host $Diff
     }
 }
+
+Export-ModuleMember -Function Fark-Var
